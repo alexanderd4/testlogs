@@ -1,0 +1,698 @@
+Live output log
+
+6/25/2026 1:48:00 PM  1st BREAKOUT -> Q3  bar=17995  q2Top=30013.25
+6/25/2026 1:53:00 PM  Q3 VOID (no re-entry 1 in 5 bars)  bar=18000
+6/25/2026 2:01:00 PM  Q1 START (long)  bar=18008  px=30032.75  ema30=30026.2981614442
+6/25/2026 2:02:00 PM  Q1 END -> Q2  bar=18009  (overlapFail=True closeBeyond=True)
+6/25/2026 2:02:00 PM  Q2 START  bar=18009  floor=30034.85  bound=30028
+6/25/2026 2:03:00 PM  Q2 VOID (close above floor)  bar=18010
+6/25/2026 2:04:00 PM  Q1 START (long)  bar=18011  px=30030.25  ema30=30027.4644812011
+6/25/2026 2:05:00 PM  Q1 END -> Q2  bar=18012  (overlapFail=True closeBeyond=False)
+6/25/2026 2:05:00 PM  Q2 START  bar=18012  floor=30034.2  bound=30028.5
+6/25/2026 2:07:00 PM  Q2 VOID (close above floor)  bar=18014
+6/25/2026 2:08:00 PM  Q1 START (long)  bar=18015  px=30032.5  ema30=30029.0206359448
+6/25/2026 2:09:00 PM  Q1 END -> Q2  bar=18016  (overlapFail=True closeBeyond=False)
+6/25/2026 2:09:00 PM  Q2 START  bar=18016  floor=30035.5  bound=30032.5
+6/25/2026 2:09:00 PM  Q2 VOID (close above floor)  bar=18016
+6/25/2026 2:20:00 PM  Q1 START (short)  bar=18027  px=30026.5  ema30=30030.5861306273
+6/25/2026 2:21:00 PM  Q1 END -> Q2  bar=18028  (overlapFail=True closeBeyond=True)
+6/25/2026 2:21:00 PM  Q2 START  bar=18028  floor=30019.6  bound=30028
+6/25/2026 2:23:00 PM  1st BREAKOUT -> Q3  bar=18030  q2Top=30033.25
+6/25/2026 2:26:00 PM  RE-ENTRY 1 (peak locked=30044.25)  bar=18033
+6/25/2026 2:31:00 PM  Q3 VOID (floor)  bar=18038
+6/25/2026 2:38:00 PM  Q1 START (short)  bar=18045  px=30009.75  ema30=30020.9511915697
+6/25/2026 2:39:00 PM  Q1 continue  bar=18046
+6/25/2026 2:40:00 PM  Q1 VOID (EMA violation - close on wrong side)  bar=18047  close=30023.75  ema30=30021.0592633821
+6/25/2026 2:56:00 PM  Q1 START (long)  bar=18063  px=30052.25  ema30=30035.6230140784
+6/25/2026 2:57:00 PM  Q1 END -> Q2  bar=18064  (overlapFail=False closeBeyond=False)
+6/25/2026 2:57:00 PM  Q2 START  bar=18064  floor=30058.25  bound=30049
+6/25/2026 2:58:00 PM  1st BREAKOUT -> Q3  bar=18065  q2Top=30049
+6/25/2026 3:03:00 PM  Q3 VOID (floor)  bar=18070
+6/25/2026 3:20:00 PM  Q1 START (long)  bar=18087  px=30065  ema30=30059.0825443105
+6/25/2026 3:21:00 PM  Q1 continue  bar=18088
+6/25/2026 3:22:00 PM  Q1 END -> Q2  bar=18089  (overlapFail=True closeBeyond=False)
+6/25/2026 3:22:00 PM  Q2 START  bar=18089  floor=30069.65  bound=30062
+6/25/2026 3:23:00 PM  Q2 VOID (close above floor)  bar=18090
+6/25/2026 3:45:00 PM  Q1 START (long)  bar=18112  px=30107  ema30=30092.1853409652
+6/25/2026 3:46:00 PM  Q1 END -> Q2  bar=18113  (overlapFail=True closeBeyond=False)
+6/25/2026 3:46:00 PM  Q2 START  bar=18113  floor=30113.7  bound=30105.5
+6/25/2026 3:47:00 PM  1st BREAKOUT -> Q3  bar=18114  q2Top=30105.5
+6/25/2026 3:52:00 PM  Q3 VOID (no re-entry 1 in 5 bars)  bar=18119
+6/25/2026 4:16:00 PM  Q1 START (long)  bar=18143  px=30112.5  ema30=30098.9081652903
+6/25/2026 4:17:00 PM  Q1 END -> Q2  bar=18144  (overlapFail=True closeBeyond=False)
+6/25/2026 4:17:00 PM  Q2 START  bar=18144  floor=30117.3  bound=30107.5
+6/25/2026 4:18:00 PM  Q2 VOID (close above floor)  bar=18145
+6/25/2026 4:27:00 PM  Q1 START (long)  bar=18154  px=30125  ema30=30112.3971768123
+6/25/2026 4:28:00 PM  Q1 END -> Q2  bar=18155  (overlapFail=False closeBeyond=False)
+6/25/2026 4:28:00 PM  Q2 START  bar=18155  floor=30128.65  bound=30118
+6/25/2026 4:30:00 PM  1st BREAKOUT -> Q3  bar=18157  q2Top=30118
+6/25/2026 4:35:00 PM  Q3 VOID (no re-entry 1 in 5 bars)  bar=18162
+6/25/2026 4:57:00 PM  Q1 START (short)  bar=18184  px=30108.75  ema30=30109.5351762493
+6/25/2026 4:58:00 PM  Q1 END -> Q2  bar=18185  (overlapFail=False closeBeyond=False)
+6/25/2026 4:58:00 PM  Q2 START  bar=18185  floor=30105.3  bound=30113.25
+6/25/2026 5:00:00 PM  Q2 VOID (close below floor)  bar=18187
+6/25/2026 6:06:00 PM  Q1 START (long)  bar=18253  px=30190  ema30=30175.189476522
+6/25/2026 6:07:00 PM  Q1 END -> Q2  bar=18254  (overlapFail=True closeBeyond=True)
+6/25/2026 6:07:00 PM  Q2 START  bar=18254  floor=30197.95  bound=30186.25
+6/25/2026 6:08:00 PM  Q2 VOID (close above floor)  bar=18255
+6/25/2026 6:15:00 PM  Q1 START (long)  bar=18262  px=30190.5  ema30=30187.1766691784
+6/25/2026 6:16:00 PM  Q1 VOID (EMA violation - close on wrong side)  bar=18263  close=30182.25  ema30=30186.858819554
+6/25/2026 6:20:00 PM  Q1 START (short)  bar=18267  px=30174.5  ema30=30183.1076621462
+6/25/2026 6:21:00 PM  Q1 END -> Q2  bar=18268  (overlapFail=True closeBeyond=False)
+6/25/2026 6:21:00 PM  Q2 START  bar=18268  floor=30168.65  bound=30176.25
+6/25/2026 6:22:00 PM  Q2 VOID (close below floor)  bar=18269
+6/25/2026 6:33:00 PM  Q1 START (short)  bar=18280  px=30169.25  ema30=30175.5706948134
+6/25/2026 6:34:00 PM  Q1 END -> Q2  bar=18281  (overlapFail=True closeBeyond=False)
+6/25/2026 6:34:00 PM  Q2 START  bar=18281  floor=30165.8  bound=30175.5
+6/25/2026 6:36:00 PM  Q2 VOID (close below floor)  bar=18283
+6/25/2026 6:42:00 PM  Q1 START (long)  bar=18289  px=30175.5  ema30=30174.4298605731
+6/25/2026 6:43:00 PM  Q1 VOID (EMA violation - close on wrong side)  bar=18290  close=30172  ema30=30174.2730953749
+6/25/2026 7:02:00 PM  Q1 START (short)  bar=18309  px=30135  ema30=30145.3027278195
+6/25/2026 7:03:00 PM  Q1 END -> Q2  bar=18310  (overlapFail=True closeBeyond=False)
+6/25/2026 7:03:00 PM  Q2 START  bar=18310  floor=30126.55  bound=30136.75
+6/25/2026 7:03:00 PM  Q2 VOID (close below floor)  bar=18310
+6/25/2026 7:05:00 PM  Q1 START (short)  bar=18312  px=30139.75  ema30=30142.3328934507
+6/25/2026 7:06:00 PM  Q1 END -> Q2  bar=18313  (overlapFail=True closeBeyond=False)
+6/25/2026 7:06:00 PM  Q2 START  bar=18313  floor=30130.15  bound=30139.75
+6/25/2026 7:07:00 PM  1st BREAKOUT -> Q3  bar=18314  q2Top=30139.75
+6/25/2026 7:11:00 PM  RE-ENTRY 1 (peak locked=30151)  bar=18318
+6/25/2026 7:14:00 PM  2nd BREAKOUT -> STOP entries A+B placed @q2Top=30139.75  stop=30151.25  risk$/contract=230  (10-bar fill window)  bar=18321
+6/25/2026 7:14:00 PM  CONGEST  atr20=10.05  span20=0.199  cross20=3  eff20=0.100  atr50=9.46  span50=0.158  cross50=7  eff50=0.098  bar=18321
+6/25/2026 7:20:00 PM  Q3 VOID (floor)  bar=18327
+6/25/2026 7:25:00 PM  Q1 START (short)  bar=18332  px=30131.75  ema30=30136.2413938926
+6/25/2026 7:26:00 PM  Q1 END -> Q2  bar=18333  (overlapFail=True closeBeyond=True)
+6/25/2026 7:26:00 PM  Q2 START  bar=18333  floor=30127  bound=30134
+6/25/2026 7:30:00 PM  1st BREAKOUT -> Q3  bar=18337  q2Top=30134.5
+6/25/2026 7:33:00 PM  RE-ENTRY 1 (peak locked=30155)  bar=18340
+6/25/2026 7:34:00 PM  Q3 VOID (EMA-chop block: cross50=9 >= 9)  bar=18341
+6/25/2026 8:06:00 PM  Q1 START (short)  bar=18373  px=30139.5  ema30=30141.3572481411
+6/25/2026 8:07:00 PM  Q1 END -> Q2  bar=18374  (overlapFail=True closeBeyond=False)
+6/25/2026 8:07:00 PM  Q2 START  bar=18374  floor=30132.3  bound=30140.5
+6/25/2026 8:08:00 PM  1st BREAKOUT -> Q3  bar=18375  q2Top=30140.5
+6/25/2026 8:13:00 PM  Q3 VOID (no re-entry 1 in 5 bars)  bar=18380
+6/25/2026 8:15:00 PM  Q1 START (long)  bar=18382  px=30154  ema30=30145.0587343474
+6/25/2026 8:16:00 PM  Q1 END -> Q2  bar=18383  (overlapFail=True closeBeyond=False)
+6/25/2026 8:16:00 PM  Q2 START  bar=18383  floor=30157.95  bound=30153.25
+6/25/2026 8:16:00 PM  Q2 VOID (close above floor)  bar=18383
+6/25/2026 8:19:00 PM  Q1 START (long)  bar=18386  px=30154.25  ema30=30148.6995300464
+6/25/2026 8:20:00 PM  Q1 END -> Q2  bar=18387  (overlapFail=True closeBeyond=False)
+6/25/2026 8:20:00 PM  Q2 START  bar=18387  floor=30160.55  bound=30154.25
+6/25/2026 8:20:00 PM  Q2 VOID (close above floor)  bar=18387
+6/25/2026 8:28:00 PM  Q1 START (long)  bar=18395  px=30160  ema30=30152.9695011528
+6/25/2026 8:29:00 PM  Q1 continue  bar=18396
+6/25/2026 8:30:00 PM  Q1 END -> Q2  bar=18397  (overlapFail=True closeBeyond=False)
+6/25/2026 8:30:00 PM  Q2 START  bar=18397  floor=30164  bound=30153.25
+6/25/2026 8:31:00 PM  Q2 VOID (close above floor)  bar=18398
+6/25/2026 8:42:00 PM  Q1 START (long)  bar=18409  px=30166.25  ema30=30162.6634902768
+6/25/2026 8:43:00 PM  Q1 VOID (EMA violation - close on wrong side)  bar=18410  close=30155.5  ema30=30162.2013296138
+6/25/2026 8:48:00 PM  Q1 START (short)  bar=18415  px=30153.25  ema30=30159.2402196701
+6/25/2026 8:49:00 PM  Q1 END -> Q2  bar=18416  (overlapFail=True closeBeyond=True)
+6/25/2026 8:49:00 PM  Q2 START  bar=18416  floor=30148.05  bound=30155
+6/25/2026 8:50:00 PM  1st BREAKOUT -> Q3  bar=18417  q2Top=30155
+6/25/2026 8:55:00 PM  Q3 VOID (no re-entry 1 in 5 bars)  bar=18422
+6/25/2026 8:58:00 PM  Q1 START (long)  bar=18425  px=30168.75  ema30=30162.4227993623
+6/25/2026 8:59:00 PM  Q1 continue  bar=18426
+6/25/2026 9:00:00 PM  Q1 VOID (EMA violation - close on wrong side)  bar=18427  close=30156.25  ema30=30162.376247933
+6/25/2026 9:07:00 PM  Q1 START (long)  bar=18434  px=30176  ema30=30169.0974541561
+6/25/2026 9:08:00 PM  Q1 VOID (EMA violation - close on wrong side)  bar=18435  close=30161.25  ema30=30168.5911667912
+6/25/2026 9:40:00 PM  Q1 START (short)  bar=18467  px=30117.5  ema30=30130.4589582807
+6/25/2026 9:41:00 PM  Q1 continue  bar=18468
+6/25/2026 9:42:00 PM  Q1 END -> Q2  bar=18469  (overlapFail=True closeBeyond=False)
+6/25/2026 9:42:00 PM  Q2 START  bar=18469  floor=30116.3  bound=30127.25
+6/25/2026 9:45:00 PM  1st BREAKOUT -> Q3  bar=18472  q2Top=30130.75
+6/25/2026 9:46:00 PM  RE-ENTRY 1 (peak locked=30155)  bar=18473
+6/25/2026 9:47:00 PM  Q3 VOID (trend filter [HARD]: short vs move=735.5 eff=0.099 over 1000 bars)  bar=18474
+6/25/2026 9:48:00 PM  Q1 START (long)  bar=18475  px=30142.5  ema30=30131.8407575978
+6/25/2026 9:49:00 PM  Q1 continue  bar=18476
+6/25/2026 9:50:00 PM  Q1 END -> Q2  bar=18477  (overlapFail=True closeBeyond=False)
+6/25/2026 9:50:00 PM  Q2 START  bar=18477  floor=30141.6  bound=30128.5
+6/25/2026 9:55:00 PM  1st BREAKOUT -> Q3  bar=18482  q2Top=30128.5
+6/25/2026 9:59:00 PM  RE-ENTRY 1 (peak locked=30114)  bar=18486
+6/25/2026 10:02:00 PM  2nd BREAKOUT -> STOP entries A+B placed @q2Top=30128.5  stop=30113.75  risk$/contract=295  (10-bar fill window)  bar=18489
+6/25/2026 10:02:00 PM  CONGEST  atr20=9.40  span20=0.218  cross20=4  eff20=0.018  atr50=10.31  span50=0.148  cross50=6  eff50=0.144  bar=18489
+6/25/2026 10:02:00 PM  >>EXEC  name="DblLongA"  fromSignal=""  type=StopMarket  action=Buy  @price=30129.5  qty=1  posAfter=1  mktPos=Long  bar=18489  orderId=NT-00108-273
+6/25/2026 10:02:00 PM  FILLED A DblLongA @30129.5  stop=30113.75  tp=30153.125  bar=18489
+6/25/2026 10:02:00 PM  >>DIAG A-bracket submitted: entry=30129.5  A.stop=30113.75  A.target=30153.125  (target is a LIMIT - cannot fill worse than this)  bar=18489
+6/25/2026 10:02:00 PM  DBG q3Peak=30114  lockedStop=30113.75  entry=30129.5  trueExtremeSinceLock=30114  beyondPeakPts=0.00  barsLockToFill=3  bar=18489
+6/25/2026 10:02:00 PM  >>EXEC  name="DblLongB"  fromSignal=""  type=StopMarket  action=Buy  @price=30129.5  qty=1  posAfter=2  mktPos=Long  bar=18489  orderId=NT-00109-273
+6/25/2026 10:02:00 PM  FILLED B DblLongB @30129.5  stop=30113.75  (runner, no TP)  bar=18489
+6/25/2026 10:05:00 PM  >>EXEC  name="Profit target"  fromSignal="DblLongA"  type=Limit  action=Sell  @price=30153.75  qty=1  posAfter=1  mktPos=Short  bar=18492  orderId=NT-00111-273
+6/25/2026 10:05:00 PM  EXIT Profit target  from=DblLongA  @30153.75  qtyRemaining=1  bar=18492
+6/25/2026 10:05:00 PM  A TOOK PROFIT -> B trailing armed  tpDistance=24.25  leg1Dist=24.25  leg2Dist=48.5  leg3Dist=72.75  bar=18492
+6/25/2026 10:06:00 PM  PROFIT CAP HIT ($1075.00 >= $250)  bar=18493  Force closing B
+6/25/2026 10:06:00 PM  >>EXEC  name="Sell"  fromSignal="DblLongB"  type=Market  action=Sell  @price=30159  qty=1  posAfter=0  mktPos=Short  bar=18493  orderId=NT-00113-273
+6/25/2026 10:06:00 PM  FLAT -> trade closed, reset  bar=18493
+6/25/2026 10:06:00 PM  Q1OPEN-TEST  side=long  q1Open=30148.75  reachedQ1Open=True  Aresult=target  bar=18493
+6/25/2026 10:11:00 PM  Q1 START (long)  bar=18498  px=30168.25  ema30=30140.5878385632
+6/25/2026 10:12:00 PM  Q1 continue  bar=18499
+6/25/2026 10:13:00 PM  Q1 END -> Q2  bar=18500  (overlapFail=True closeBeyond=False)
+6/25/2026 10:13:00 PM  Q2 START  bar=18500  floor=30171.35  bound=30159
+6/25/2026 10:15:00 PM  1st BREAKOUT -> Q3  bar=18502  q2Top=30159
+6/25/2026 10:20:00 PM  Q3 VOID (no re-entry 1 in 5 bars)  bar=18507
+6/25/2026 10:26:00 PM  Q1 START (short)  bar=18513  px=30137  ema30=30138.9473266774
+6/25/2026 10:27:00 PM  Q1 END -> Q2  bar=18514  (overlapFail=False closeBeyond=False)
+6/25/2026 10:27:00 PM  Q2 START  bar=18514  floor=30128.7  bound=30146.25
+6/25/2026 10:32:00 PM  1st BREAKOUT -> Q3  bar=18519  q2Top=30146.25
+6/25/2026 10:37:00 PM  Q3 VOID (no re-entry 1 in 5 bars)  bar=18524
+6/25/2026 10:45:00 PM  Q1 START (long)  bar=18532  px=30190.25  ema30=30176.0901848896
+6/25/2026 10:46:00 PM  Q1 END -> Q2  bar=18533  (overlapFail=True closeBeyond=False)
+6/25/2026 10:46:00 PM  Q2 START  bar=18533  floor=30199.35  bound=30186.5
+6/25/2026 10:48:00 PM  Q2 VOID (close above floor)  bar=18535
+6/25/2026 10:51:00 PM  Q1 START (long)  bar=18538  px=30207.5  ema30=30186.969635948
+6/25/2026 10:52:00 PM  Q1 END -> Q2  bar=18539  (overlapFail=True closeBeyond=False)
+6/25/2026 10:52:00 PM  Q2 START  bar=18539  floor=30217  bound=30204.5
+6/25/2026 11:00:00 PM  1st BREAKOUT -> Q3  bar=18547  q2Top=30198.25
+6/25/2026 11:01:00 PM  RE-ENTRY 1 (peak locked=30190.75)  bar=18548
+6/25/2026 11:02:00 PM  Q3 VOID (EMA-chop block: cross50=9 >= 9)  bar=18549
+6/25/2026 11:10:00 PM  Q1 START (short)  bar=18557  px=30167.5  ema30=30187.9212028858
+6/25/2026 11:11:00 PM  Q1 END -> Q2  bar=18558  (overlapFail=True closeBeyond=False)
+6/25/2026 11:11:00 PM  Q2 START  bar=18558  floor=30163.25  bound=30172
+6/25/2026 11:11:00 PM  Q2 VOID (close below floor)  bar=18558
+6/25/2026 11:27:00 PM  Q1 START (short)  bar=18574  px=30161.75  ema30=30162.8916428912
+6/25/2026 11:28:00 PM  Q1 VOID (EMA violation - close on wrong side)  bar=18575  close=30169.5  ema30=30163.3179885111
+6/25/2026 11:37:00 PM  Q1 START (short)  bar=18584  px=30085.75  ema30=30134.5630221304
+6/25/2026 11:38:00 PM  Q1 END -> Q2  bar=18585  (overlapFail=True closeBeyond=False)
+6/25/2026 11:38:00 PM  Q2 START  bar=18585  floor=30069.8  bound=30090.5
+6/25/2026 11:38:00 PM  Q2 VOID (close below floor)  bar=18585
+6/25/2026 11:51:00 PM  Q1 START (short)  bar=18598  px=29635  ema30=29914.0659688845
+6/25/2026 11:52:00 PM  Q1 END -> Q2  bar=18599  (overlapFail=True closeBeyond=False)
+6/25/2026 11:52:00 PM  Q2 START  bar=18599  floor=29578.45  bound=29683
+6/25/2026 11:53:00 PM  Q2 VOID (close below floor)  bar=18600
+6/26/2026 12:09:00 AM  Q1 START (short)  bar=18616  px=29575  ema30=29603.140138443
+6/26/2026 12:10:00 AM  Q1 END -> Q2  bar=18617  (overlapFail=True closeBeyond=True)
+6/26/2026 12:10:00 AM  Q2 START  bar=18617  floor=29556.6  bound=29610.25
+6/26/2026 12:12:00 AM  1st BREAKOUT -> Q3  bar=18619  q2Top=29615.25
+6/26/2026 12:15:00 AM  RE-ENTRY 1 (peak locked=29690)  bar=18622
+6/26/2026 12:16:00 AM  Q3 VOID (floor)  bar=18623
+6/26/2026 12:44:00 AM  Q1 START (long)  bar=18651  px=29636.25  ema30=29631.2175273364
+6/26/2026 12:45:00 AM  Q1 VOID (EMA violation - close on wrong side)  bar=18652  close=29599.5  ema30=29629.1712352502
+6/26/2026 12:58:00 AM  Q1 START (long)  bar=18665  px=29718.25  ema30=29666.7933437444
+6/26/2026 12:59:00 AM  Q1 VOID (EMA violation - close on wrong side)  bar=18666  close=29621.75  ema30=29663.8873215673
+6/26/2026 1:41:00 AM  Q1 START (long)  bar=18708  px=29641  ema30=29631.0524964311
+6/26/2026 1:42:00 AM  Q1 END -> Q2  bar=18709  (overlapFail=True closeBeyond=False)
+6/26/2026 1:42:00 AM  Q2 START  bar=18709  floor=29648.7  bound=29631.5
+6/26/2026 1:42:00 AM  Q2 VOID (close above floor)  bar=18709
+6/26/2026 1:50:00 AM  Q1 START (long)  bar=18717  px=29700.25  ema30=29661.7922845729
+6/26/2026 1:51:00 AM  Q1 continue  bar=18718
+6/26/2026 1:52:00 AM  Q1 END -> Q2  bar=18719  (overlapFail=True closeBeyond=False)
+6/26/2026 1:52:00 AM  Q2 START  bar=18719  floor=29715.6  bound=29652.25
+6/26/2026 2:08:00 AM  Q2 VOID (close above floor)  bar=18735
+6/26/2026 2:09:00 AM  Q1 START (long)  bar=18736  px=29745.75  ema30=29683.7597341424
+6/26/2026 2:10:00 AM  Q1 END -> Q2  bar=18737  (overlapFail=True closeBeyond=False)
+6/26/2026 2:10:00 AM  Q2 START  bar=18737  floor=29756.6  bound=29734.75
+6/26/2026 2:10:00 AM  Q2 VOID (close above floor)  bar=18737
+6/26/2026 2:21:00 AM  Q1 START (long)  bar=18748  px=29819.75  ema30=29763.9046956656
+6/26/2026 2:22:00 AM  Q1 END -> Q2  bar=18749  (overlapFail=True closeBeyond=True)
+6/26/2026 2:22:00 AM  Q2 START  bar=18749  floor=29830.1  bound=29807.5
+6/26/2026 2:24:00 AM  1st BREAKOUT -> Q3  bar=18751  q2Top=29796.5
+6/26/2026 2:29:00 AM  Q3 VOID (no re-entry 1 in 5 bars)  bar=18756
+6/26/2026 2:48:00 AM  Q1 START (short)  bar=18775  px=29639.5  ema30=29703.2452991323
+6/26/2026 2:49:00 AM  Q1 continue  bar=18776
+6/26/2026 2:50:00 AM  Q1 END -> Q2  bar=18777  (overlapFail=True closeBeyond=True)
+6/26/2026 2:50:00 AM  Q2 START  bar=18777  floor=29626.05  bound=29697.25
+6/26/2026 2:51:00 AM  1st BREAKOUT -> Q3  bar=18778  q2Top=29697.25
+6/26/2026 2:53:00 AM  RE-ENTRY 1 (peak locked=29710.25)  bar=18780
+6/26/2026 3:02:00 AM  2nd BREAKOUT -> STOP entries A+B placed @q2Top=29697.25  stop=29710.5  risk$/contract=265  (10-bar fill window)  bar=18789
+6/26/2026 3:02:00 AM  CONGEST  atr20=33.65  span20=0.195  cross20=3  eff20=0.066  atr50=31.42  span50=0.182  cross50=4  eff50=0.169  bar=18789
+6/26/2026 3:02:00 AM  >>EXEC  name="DblShortA"  fromSignal=""  type=StopMarket  action=SellShort  @price=29697  qty=1  posAfter=1  mktPos=Short  bar=18789  orderId=NT-00114-273
+6/26/2026 3:02:00 AM  FILLED A DblShortA @29697  stop=29710.5  tp=29676.75  bar=18789
+6/26/2026 3:02:00 AM  >>DIAG A-bracket submitted: entry=29697  A.stop=29710.5  A.target=29676.75  (target is a LIMIT - cannot fill worse than this)  bar=18789
+6/26/2026 3:02:00 AM  DBG q3Peak=29710.25  lockedStop=29710.5  entry=29697  trueExtremeSinceLock=29717.5  beyondPeakPts=7.25  barsLockToFill=9  <<< STOP INSIDE SWING  bar=18789
+6/26/2026 3:02:00 AM  >>EXEC  name="DblShortB"  fromSignal=""  type=StopMarket  action=SellShort  @price=29697  qty=1  posAfter=2  mktPos=Short  bar=18789  orderId=NT-00115-273
+6/26/2026 3:02:00 AM  FILLED B DblShortB @29697  stop=29710.5  (runner, no TP)  bar=18789
+6/26/2026 3:06:00 AM  >>EXEC  name="Profit target"  fromSignal="DblShortA"  type=Limit  action=BuyToCover  @price=29676.25  qty=1  posAfter=1  mktPos=Long  bar=18793  orderId=NT-00117-273
+6/26/2026 3:06:00 AM  EXIT Profit target  from=DblShortA  @29676.25  qtyRemaining=1  bar=18793
+6/26/2026 3:06:00 AM  A TOOK PROFIT -> B trailing armed  tpDistance=20.75  leg1Dist=20.75  leg2Dist=41.5  leg3Dist=62.25  bar=18793
+6/26/2026 3:07:00 AM  PROFIT CAP HIT ($845.00 >= $250)  bar=18794  Force closing B
+6/26/2026 3:07:00 AM  >>EXEC  name="Buy to cover"  fromSignal="DblShortB"  type=Market  action=BuyToCover  @price=29676  qty=1  posAfter=0  mktPos=Long  bar=18794  orderId=NT-00119-273
+6/26/2026 3:07:00 AM  FLAT -> trade closed, reset  bar=18794
+6/26/2026 3:07:00 AM  Q1OPEN-TEST  side=short  q1Open=29591.75  reachedQ1Open=False  Aresult=target  bar=18794
+6/26/2026 3:20:00 AM  Q1 START (long)  bar=18807  px=29735.75  ema30=29724.0276898303
+6/26/2026 3:21:00 AM  Q1 VOID (EMA violation - close on wrong side)  bar=18808  close=29702  ema30=29722.6065485509
+6/26/2026 3:30:00 AM  Q1 START (long)  bar=18817  px=29746.25  ema30=29730.1940578232
+6/26/2026 3:31:00 AM  Q1 END -> Q2  bar=18818  (overlapFail=True closeBeyond=False)
+6/26/2026 3:31:00 AM  Q2 START  bar=18818  floor=29759.3  bound=29740.25
+6/26/2026 3:31:00 AM  Q2 VOID (close above floor)  bar=18818
+6/26/2026 3:33:00 AM  Q1 START (long)  bar=18820  px=29751.25  ema30=29736.0125667567
+6/26/2026 3:34:00 AM  Q1 VOID (EMA violation - close on wrong side)  bar=18821  close=29735  ema30=29735.9472398692
+6/26/2026 4:15:00 AM  Q1 START (long)  bar=18862  px=29763.5  ema30=29755.7119666825
+6/26/2026 4:16:00 AM  Q1 END -> Q2  bar=18863  (overlapFail=True closeBeyond=False)
+6/26/2026 4:16:00 AM  Q2 START  bar=18863  floor=29779.35  bound=29751.5
+6/26/2026 4:18:00 AM  Q2 VOID (close above floor)  bar=18865
+6/26/2026 4:32:00 AM  Q1 START (long)  bar=18879  px=29827.25  ema30=29809.4253777188
+6/26/2026 4:33:00 AM  Q1 continue  bar=18880
+6/26/2026 4:34:00 AM  Q1 VOID (EMA violation - close on wrong side)  bar=18881  close=29799.25  ema30=29809.6032701993
+6/26/2026 4:44:00 AM  Q1 START (short)  bar=18891  px=29778.5  ema30=29794.5719255599
+6/26/2026 4:45:00 AM  Q1 continue  bar=18892
+6/26/2026 4:46:00 AM  Q1 END -> Q2  bar=18893  (overlapFail=True closeBeyond=False)
+6/26/2026 4:46:00 AM  Q2 START  bar=18893  floor=29772.65  bound=29801
+6/26/2026 4:47:00 AM  Q2 VOID (close below floor)  bar=18894
+6/26/2026 4:51:00 AM  Q1 START (short)  bar=18898  px=29764.75  ema30=29779.8001632066
+6/26/2026 4:52:00 AM  Q1 continue  bar=18899
+6/26/2026 4:53:00 AM  Q1 END -> Q2  bar=18900  (overlapFail=True closeBeyond=False)
+6/26/2026 4:53:00 AM  Q2 START  bar=18900  floor=29757.2  bound=29784.75
+6/26/2026 4:53:00 AM  Q2 VOID (close below floor)  bar=18900
+6/26/2026 4:55:00 AM  Q1 START (long)  bar=18902  px=29785.5  ema30=29780.4997468741
+6/26/2026 4:56:00 AM  Q1 VOID (EMA violation - close on wrong side)  bar=18903  close=29771  ema30=29779.886859979
+6/26/2026 5:01:00 AM  Q1 START (short)  bar=18908  px=29773.5  ema30=29777.1162114508
+6/26/2026 5:02:00 AM  Q1 END -> Q2  bar=18909  (overlapFail=True closeBeyond=False)
+6/26/2026 5:02:00 AM  Q2 START  bar=18909  floor=29759.7  bound=29777.5
+6/26/2026 5:03:00 AM  Q2 VOID (close below floor)  bar=18910
+6/26/2026 5:21:00 AM  Q1 START (short)  bar=18928  px=29651.75  ema30=29705.4580737815
+6/26/2026 5:22:00 AM  Q1 END -> Q2  bar=18929  (overlapFail=True closeBeyond=False)
+6/26/2026 5:22:00 AM  Q2 START  bar=18929  floor=29637.6  bound=29665.75
+6/26/2026 5:27:00 AM  1st BREAKOUT -> Q3  bar=18934  q2Top=29677.25
+6/26/2026 5:29:00 AM  RE-ENTRY 1 (peak locked=29693.25)  bar=18936
+6/26/2026 5:31:00 AM  2nd BREAKOUT -> STOP entries A+B placed @q2Top=29677.25  stop=29693.5  risk$/contract=325  (10-bar fill window)  bar=18938
+6/26/2026 5:31:00 AM  CONGEST  atr20=27.66  span20=0.160  cross20=0  eff20=0.096  atr50=27.70  span50=0.134  cross50=4  eff50=0.148  bar=18938
+6/26/2026 5:34:00 AM  Q3 VOID (floor)  bar=18941
+6/26/2026 5:35:00 AM  Q1 START (short)  bar=18942  px=29646.5  ema30=29677.2727710437
+6/26/2026 5:36:00 AM  Q1 continue  bar=18943
+6/26/2026 5:37:00 AM  Q1 END -> Q2  bar=18944  (overlapFail=True closeBeyond=False)
+6/26/2026 5:37:00 AM  Q2 START  bar=18944  floor=29647.9  bound=29674
+6/26/2026 5:38:00 AM  Q2 VOID (close below floor)  bar=18945
+6/26/2026 6:04:00 AM  Q1 START (long)  bar=18971  px=29853.25  ema30=29711.0528764738
+6/26/2026 6:05:00 AM  Q1 continue  bar=18972
+6/26/2026 6:06:00 AM  Q1 END -> Q2  bar=18973  (overlapFail=True closeBeyond=False)
+6/26/2026 6:06:00 AM  Q2 START  bar=18973  floor=29869.85  bound=29825
+6/26/2026 6:09:00 AM  1st BREAKOUT -> Q3  bar=18976  q2Top=29820
+6/26/2026 6:10:00 AM  RE-ENTRY 1 (peak locked=29806)  bar=18977
+6/26/2026 6:11:00 AM  Q3 VOID (blocked CT hour 15:00)  bar=18978
+6/26/2026 6:12:00 AM  Q1 START (long)  bar=18979  px=29798.75  ema30=29755.8939675527
+6/26/2026 6:13:00 AM  Q1 END -> Q2  bar=18980  (overlapFail=True closeBeyond=False)
+6/26/2026 6:13:00 AM  Q2 START  bar=18980  floor=29804.4  bound=29795.75
+6/26/2026 6:13:00 AM  Q2 VOID (close above floor)  bar=18980
+6/26/2026 6:26:00 AM  Q1 START (long)  bar=18993  px=29843  ema30=29802.2651024922
+6/26/2026 6:27:00 AM  Q1 continue  bar=18994
+6/26/2026 6:28:00 AM  Q1 END -> Q2  bar=18995  (overlapFail=True closeBeyond=False)
+6/26/2026 6:28:00 AM  Q2 START  bar=18995  floor=29843.8  bound=29823.5
+6/26/2026 6:30:00 AM  1st BREAKOUT -> Q3  bar=18997  q2Top=29823.5
+6/26/2026 6:35:00 AM  Q3 VOID (no re-entry 1 in 5 bars)  bar=19002
+6/26/2026 8:09:00 AM  Q1 START (short)  bar=19036  px=29690.25  ema30=29744.3692584921
+6/26/2026 8:10:00 AM  Q1 END -> Q2  bar=19037  (overlapFail=True closeBeyond=False)
+6/26/2026 8:10:00 AM  Q2 START  bar=19037  floor=29684.15  bound=29690.75
+6/26/2026 8:10:00 AM  Q2 VOID (close below floor)  bar=19037
+6/26/2026 8:17:00 AM  Q1 START (short)  bar=19044  px=29659.5  ema30=29705.6858960168
+6/26/2026 8:18:00 AM  Q1 continue  bar=19045
+6/26/2026 8:19:00 AM  Q1 continue  bar=19046
+6/26/2026 8:20:00 AM  Q1 END -> Q2  bar=19047  (overlapFail=True closeBeyond=False)
+6/26/2026 8:20:00 AM  Q2 START  bar=19047  floor=29659.1  bound=29684.5
+6/26/2026 8:21:00 AM  Q2 VOID (close below floor)  bar=19048
+6/26/2026 8:36:00 AM  Q1 START (short)  bar=19063  px=29644  ema30=29657.3955340669
+6/26/2026 8:37:00 AM  Q1 END -> Q2  bar=19064  (overlapFail=True closeBeyond=True)
+6/26/2026 8:37:00 AM  Q2 START  bar=19064  floor=29635.45  bound=29652
+6/26/2026 8:38:00 AM  1st BREAKOUT -> Q3  bar=19065  q2Top=29652
+6/26/2026 8:41:00 AM  RE-ENTRY 1 (peak locked=29666)  bar=19068
+6/26/2026 8:42:00 AM  2nd BREAKOUT -> STOP entries A+B placed @q2Top=29652  stop=29666.25  risk$/contract=285  (10-bar fill window)  bar=19069
+6/26/2026 8:42:00 AM  CONGEST  atr20=15.53  span20=0.195  cross20=2  eff20=0.128  atr50=16.11  span50=0.204  cross50=2  eff50=0.277  bar=19069
+6/26/2026 8:42:00 AM  >>EXEC  name="DblShortA"  fromSignal=""  type=StopMarket  action=SellShort  @price=29650.5  qty=1  posAfter=1  mktPos=Short  bar=19069  orderId=NT-00120-273
+6/26/2026 8:42:00 AM  FILLED A DblShortA @29650.5  stop=29666.25  tp=29626.875  bar=19069
+6/26/2026 8:42:00 AM  >>DIAG A-bracket submitted: entry=29650.5  A.stop=29666.25  A.target=29626.875  (target is a LIMIT - cannot fill worse than this)  bar=19069
+6/26/2026 8:42:00 AM  DBG q3Peak=29666  lockedStop=29666.25  entry=29650.5  trueExtremeSinceLock=29666  beyondPeakPts=0.00  barsLockToFill=1  bar=19069
+6/26/2026 8:42:00 AM  >>EXEC  name="DblShortB"  fromSignal=""  type=StopMarket  action=SellShort  @price=29650.5  qty=1  posAfter=2  mktPos=Short  bar=19069  orderId=NT-00121-273
+6/26/2026 8:42:00 AM  FILLED B DblShortB @29650.5  stop=29666.25  (runner, no TP)  bar=19069
+6/26/2026 8:44:00 AM  >>EXEC  name="Stop loss"  fromSignal="DblShortA"  type=StopMarket  action=BuyToCover  @price=29666.5  qty=1  posAfter=1  mktPos=Long  bar=19071  orderId=NT-00122-273
+6/26/2026 8:44:00 AM  EXIT Stop loss  from=DblShortA  @29666.5  qtyRemaining=1  bar=19071
+6/26/2026 8:44:00 AM  A TOOK PROFIT -> B trailing armed  tpDistance=29650.5  leg1Dist=29650.5  leg2Dist=59301  leg3Dist=88951.5  bar=19071
+6/26/2026 8:44:00 AM  >>EXEC  name="Stop loss"  fromSignal="DblShortB"  type=StopMarket  action=BuyToCover  @price=29666.5  qty=1  posAfter=0  mktPos=Long  bar=19071  orderId=NT-00124-273
+6/26/2026 8:44:00 AM  EXIT Stop loss  from=DblShortB  @29666.5  qtyRemaining=0  bar=19071
+6/26/2026 8:44:00 AM  FLAT -> trade closed, reset  bar=19071
+6/26/2026 8:44:00 AM  Q1OPEN-TEST  side=short  q1Open=29630  reachedQ1Open=False  Aresult=STOP  bar=19071
+6/26/2026 9:01:00 AM  Q1 START (long)  bar=19088  px=29678.25  ema30=29665.4377397788
+6/26/2026 9:02:00 AM  Q1 END -> Q2  bar=19089  (overlapFail=True closeBeyond=False)
+6/26/2026 9:02:00 AM  Q2 START  bar=19089  floor=29683.95  bound=29675.5
+6/26/2026 9:02:00 AM  Q2 VOID (close above floor)  bar=19089
+6/26/2026 9:05:00 AM  Q1 START (long)  bar=19092  px=29680  ema30=29669.4433619035
+6/26/2026 9:06:00 AM  Q1 END -> Q2  bar=19093  (overlapFail=True closeBeyond=False)
+6/26/2026 9:06:00 AM  Q2 START  bar=19093  floor=29683.6  bound=29676.5
+6/26/2026 9:06:00 AM  Q2 VOID (close above floor)  bar=19093
+6/26/2026 9:28:00 AM  Q1 START (long)  bar=19115  px=29875.5  ema30=29772.8846582543
+6/26/2026 9:29:00 AM  Q1 END -> Q2  bar=19116  (overlapFail=True closeBeyond=True)
+6/26/2026 9:29:00 AM  Q2 START  bar=19116  floor=29881.35  bound=29863.5
+6/26/2026 9:32:00 AM  1st BREAKOUT -> Q3  bar=19119  q2Top=29863.5
+6/26/2026 9:33:00 AM  RE-ENTRY 1 (peak locked=29850.25)  bar=19120
+6/26/2026 9:35:00 AM  2nd BREAKOUT -> STOP entries A+B placed @q2Top=29863.5  stop=29850  risk$/contract=270  (10-bar fill window)  bar=19122
+6/26/2026 9:35:00 AM  CONGEST  atr20=25.28  span20=0.348  cross20=0  eff20=0.458  atr50=16.75  span50=0.301  cross50=4  eff50=0.404  bar=19122
+6/26/2026 9:45:00 AM  Q3 VOID (stop orders unfilled in 10 bars)  bar=19132
+6/26/2026 10:01:00 AM  Q1 START (short)  bar=19148  px=29707  ema30=29739.8334512449
+6/26/2026 10:02:00 AM  Q1 continue  bar=19149
+6/26/2026 10:03:00 AM  Q1 END -> Q2  bar=19150  (overlapFail=True closeBeyond=False)
+6/26/2026 10:03:00 AM  Q2 START  bar=19150  floor=29702.9  bound=29727.5
+6/26/2026 10:03:00 AM  Q2 VOID (close below floor)  bar=19150
+6/26/2026 10:04:00 AM  Q1 START (short)  bar=19151  px=29726.75  ema30=29734.8818785007
+6/26/2026 10:05:00 AM  Q1 END -> Q2  bar=19152  (overlapFail=True closeBeyond=True)
+6/26/2026 10:05:00 AM  Q2 START  bar=19152  floor=29701.5  bound=29736.75
+6/26/2026 10:06:00 AM  1st BREAKOUT -> Q3  bar=19153  q2Top=29736.75
+6/26/2026 10:11:00 AM  Q3 VOID (no re-entry 1 in 5 bars)  bar=19158
+6/26/2026 10:12:00 AM  Q1 START (long)  bar=19159  px=29754.5  ema30=29742.0239564042
+6/26/2026 10:13:00 AM  Q1 VOID (EMA violation - close on wrong side)  bar=19160  close=29741.75  ema30=29742.0062817975
+6/26/2026 10:30:00 AM  Q1 START (short)  bar=19177  px=29690  ema30=29723.5058507187
+6/26/2026 10:31:00 AM  Q1 END -> Q2  bar=19178  (overlapFail=True closeBeyond=True)
+6/26/2026 10:31:00 AM  Q2 START  bar=19178  floor=29676.45  bound=29712
+6/26/2026 10:34:00 AM  Q2 VOID (close below floor)  bar=19181
+6/26/2026 10:38:00 AM  Q1 START (short)  bar=19185  px=29676.5  ema30=29702.8503219711
+6/26/2026 10:39:00 AM  Q1 END -> Q2  bar=19186  (overlapFail=True closeBeyond=False)
+6/26/2026 10:39:00 AM  Q2 START  bar=19186  floor=29659.35  bound=29682.25
+6/26/2026 10:42:00 AM  1st BREAKOUT -> Q3  bar=19189  q2Top=29682.25
+6/26/2026 10:43:00 AM  RE-ENTRY 1 (peak locked=29696)  bar=19190
+6/26/2026 10:49:00 AM  2nd BREAKOUT -> STOP entries A+B placed @q2Top=29682.25  stop=29696.25  risk$/contract=280  (10-bar fill window)  bar=19196
+6/26/2026 10:49:00 AM  CONGEST  atr20=23.68  span20=0.149  cross20=0  eff20=0.083  atr50=24.35  span50=0.106  cross50=6  eff50=0.017  bar=19196
+6/26/2026 10:49:00 AM  >>EXEC  name="DblShortA"  fromSignal=""  type=StopMarket  action=SellShort  @price=29682.25  qty=1  posAfter=1  mktPos=Short  bar=19196  orderId=NT-00127-273
+6/26/2026 10:49:00 AM  FILLED A DblShortA @29682.25  stop=29696.25  tp=29661.25  bar=19196
+6/26/2026 10:49:00 AM  >>DIAG A-bracket submitted: entry=29682.25  A.stop=29696.25  A.target=29661.25  (target is a LIMIT - cannot fill worse than this)  bar=19196
+6/26/2026 10:49:00 AM  DBG q3Peak=29696  lockedStop=29696.25  entry=29682.25  trueExtremeSinceLock=29696  beyondPeakPts=0.00  barsLockToFill=6  bar=19196
+6/26/2026 10:49:00 AM  >>EXEC  name="DblShortB"  fromSignal=""  type=StopMarket  action=SellShort  @price=29682.25  qty=1  posAfter=2  mktPos=Short  bar=19196  orderId=NT-00128-273
+6/26/2026 10:49:00 AM  FILLED B DblShortB @29682.25  stop=29696.25  (runner, no TP)  bar=19196
+6/26/2026 10:50:00 AM  >>EXEC  name="Profit target"  fromSignal="DblShortA"  type=Limit  action=BuyToCover  @price=29661.25  qty=1  posAfter=1  mktPos=Long  bar=19197  orderId=NT-00130-273
+6/26/2026 10:50:00 AM  EXIT Profit target  from=DblShortA  @29661.25  qtyRemaining=1  bar=19197
+6/26/2026 10:50:00 AM  A TOOK PROFIT -> B trailing armed  tpDistance=21  leg1Dist=21  leg2Dist=42  leg3Dist=63  bar=19197
+6/26/2026 10:51:00 AM  PROFIT CAP HIT ($865.00 >= $250)  bar=19198  Force closing B
+6/26/2026 10:51:00 AM  >>EXEC  name="Buy to cover"  fromSignal="DblShortB"  type=Market  action=BuyToCover  @price=29665.25  qty=1  posAfter=0  mktPos=Long  bar=19198  orderId=NT-00132-273
+6/26/2026 10:51:00 AM  FLAT -> trade closed, reset  bar=19198
+6/26/2026 10:51:00 AM  Q1OPEN-TEST  side=short  q1Open=29649.25  reachedQ1Open=False  Aresult=target  bar=19198
+6/26/2026 11:02:00 AM  Q1 START (short)  bar=19209  px=29652.25  ema30=29669.9098645796
+6/26/2026 11:03:00 AM  Q1 continue  bar=19210
+6/26/2026 11:04:00 AM  Q1 END -> Q2  bar=19211  (overlapFail=True closeBeyond=False)
+6/26/2026 11:04:00 AM  Q2 START  bar=19211  floor=29650.2  bound=29676.75
+6/26/2026 11:04:00 AM  Q2 VOID (close below floor)  bar=19211
+6/26/2026 11:10:00 AM  Q1 START (short)  bar=19217  px=29617.75  ema30=29646.3868040852
+6/26/2026 11:11:00 AM  Q1 END -> Q2  bar=19218  (overlapFail=True closeBeyond=False)
+6/26/2026 11:11:00 AM  Q2 START  bar=19218  floor=29601.4  bound=29621.5
+6/26/2026 11:12:00 AM  1st BREAKOUT -> Q3  bar=19219  q2Top=29621.5
+6/26/2026 11:17:00 AM  Q3 VOID (no re-entry 1 in 5 bars)  bar=19224
+6/26/2026 11:23:00 AM  Q1 START (long)  bar=19230  px=29656.75  ema30=29649.0521193416
+6/26/2026 11:24:00 AM  Q1 END -> Q2  bar=19231  (overlapFail=True closeBeyond=False)
+6/26/2026 11:24:00 AM  Q2 START  bar=19231  floor=29662.9  bound=29648.5
+6/26/2026 11:27:00 AM  1st BREAKOUT -> Q3  bar=19234  q2Top=29645
+6/26/2026 11:32:00 AM  Q3 VOID (no re-entry 1 in 5 bars)  bar=19239
+6/26/2026 12:01:00 PM  Q1 START (short)  bar=19268  px=29494.25  ema30=29530.889904611
+6/26/2026 12:02:00 PM  Q1 END -> Q2  bar=19269  (overlapFail=True closeBeyond=False)
+6/26/2026 12:02:00 PM  Q2 START  bar=19269  floor=29474.75  bound=29505.75
+6/26/2026 12:06:00 PM  Q2 VOID (close below floor)  bar=19273
+6/26/2026 12:08:00 PM  Q1 START (short)  bar=19275  px=29491.5  ema30=29513.6734137474
+6/26/2026 12:09:00 PM  Q1 continue  bar=19276
+6/26/2026 12:10:00 PM  Q1 END -> Q2  bar=19277  (overlapFail=True closeBeyond=False)
+6/26/2026 12:10:00 PM  Q2 START  bar=19277  floor=29486.5  bound=29506
+6/26/2026 12:11:00 PM  Q2 VOID (close below floor)  bar=19278
+6/26/2026 12:41:00 PM  Q1 START (short)  bar=19308  px=29371.5  ema30=29415.2395740856
+6/26/2026 12:42:00 PM  Q1 END -> Q2  bar=19309  (overlapFail=True closeBeyond=False)
+6/26/2026 12:42:00 PM  Q2 START  bar=19309  floor=29355.75  bound=29373.75
+6/26/2026 12:42:00 PM  Q2 VOID (close below floor)  bar=19309
+6/26/2026 2:08:00 PM  Q1 START (long)  bar=19395  px=29338.25  ema30=29307.8007686742
+6/26/2026 2:09:00 PM  Q1 END -> Q2  bar=19396  (overlapFail=True closeBeyond=False)
+6/26/2026 2:09:00 PM  Q2 START  bar=19396  floor=29350.8  bound=29326.25
+6/26/2026 2:09:00 PM  Q2 VOID (close above floor)  bar=19396
+6/26/2026 2:20:00 PM  Q1 START (long)  bar=19407  px=29357.75  ema30=29340.1131422443
+6/26/2026 2:21:00 PM  Q1 END -> Q2  bar=19408  (overlapFail=True closeBeyond=False)
+6/26/2026 2:21:00 PM  Q2 START  bar=19408  floor=29371.95  bound=29353.25
+6/26/2026 2:23:00 PM  1st BREAKOUT -> Q3  bar=19410  q2Top=29353
+6/26/2026 2:28:00 PM  Q3 VOID (no re-entry 1 in 5 bars)  bar=19415
+6/26/2026 2:29:00 PM  Q1 START (short)  bar=19416  px=29309.75  ema30=29332.3759056535
+6/26/2026 2:30:00 PM  Q1 END -> Q2  bar=19417  (overlapFail=True closeBeyond=False)
+6/26/2026 2:30:00 PM  Q2 START  bar=19417  floor=29297.05  bound=29321
+6/26/2026 2:31:00 PM  1st BREAKOUT -> Q3  bar=19418  q2Top=29321
+6/26/2026 2:33:00 PM  RE-ENTRY 1 (peak locked=29346.5)  bar=19420
+6/26/2026 2:36:00 PM  Q3 VOID (floor)  bar=19423
+6/26/2026 2:46:00 PM  Q1 START (short)  bar=19433  px=29304  ema30=29309.5316641611
+6/26/2026 2:47:00 PM  Q1 END -> Q2  bar=19434  (overlapFail=True closeBeyond=False)
+6/26/2026 2:47:00 PM  Q2 START  bar=19434  floor=29294.15  bound=29308.25
+6/26/2026 2:48:00 PM  Q2 VOID (close below floor)  bar=19435
+6/26/2026 3:08:00 PM  Q1 START (short)  bar=19455  px=29280  ema30=29280.8546734912
+6/26/2026 3:09:00 PM  Q1 VOID (EMA violation - close on wrong side)  bar=19456  close=29299.75  ema30=29282.0737268143
+6/26/2026 3:11:00 PM  Q1 START (long)  bar=19458  px=29284.75  ema30=29283.1774237782
+6/26/2026 3:12:00 PM  Q1 END -> Q2  bar=19459  (overlapFail=True closeBeyond=False)
+6/26/2026 3:12:00 PM  Q2 START  bar=19459  floor=29295.85  bound=29284.25
+6/26/2026 3:12:00 PM  Q2 VOID (close above floor)  bar=19459
+6/26/2026 3:18:00 PM  Q1 START (long)  bar=19465  px=29340.75  ema30=29300.905330101
+6/26/2026 3:19:00 PM  Q1 END -> Q2  bar=19466  (overlapFail=False closeBeyond=False)
+6/26/2026 3:19:00 PM  Q2 START  bar=19466  floor=29354.85  bound=29331.5
+6/26/2026 3:24:00 PM  1st BREAKOUT -> Q3  bar=19471  q2Top=29331.5
+6/26/2026 3:27:00 PM  RE-ENTRY 1 (peak locked=29314.75)  bar=19474
+6/26/2026 3:28:00 PM  Q3 VOID (floor)  bar=19475
+6/26/2026 3:38:00 PM  Q1 START (long)  bar=19485  px=29387.75  ema30=29352.7298408325
+6/26/2026 3:39:00 PM  Q1 continue  bar=19486
+6/26/2026 3:40:00 PM  Q1 END -> Q2  bar=19487  (overlapFail=True closeBeyond=True)
+6/26/2026 3:40:00 PM  Q2 START  bar=19487  floor=29397.6  bound=29369
+6/26/2026 3:41:00 PM  1st BREAKOUT -> Q3  bar=19488  q2Top=29369
+6/26/2026 3:46:00 PM  Q3 VOID (no re-entry 1 in 5 bars)  bar=19493
+6/26/2026 3:51:00 PM  Q1 START (short)  bar=19498  px=29331.5  ema30=29338.3347678104
+6/26/2026 3:52:00 PM  Q1 VOID (EMA violation - close on wrong side)  bar=19499  close=29338.75  ema30=29338.3615569839
+6/26/2026 3:56:00 PM  Q1 START (long)  bar=19503  px=29350.75  ema30=29341.8703222614
+6/26/2026 3:57:00 PM  Q1 VOID (EMA violation - close on wrong side)  bar=19504  close=29339.75  ema30=29341.7335272768
+6/26/2026 4:20:00 PM  Q1 START (long)  bar=19527  px=29335  ema30=29327.3858003182
+6/26/2026 4:21:00 PM  Q1 VOID (EMA violation - close on wrong side)  bar=19528  close=29325  ema30=29327.2318777171
+6/26/2026 4:42:00 PM  Q1 START (long)  bar=19549  px=29403.5  ema30=29379.6259973075
+6/26/2026 4:43:00 PM  Q1 END -> Q2  bar=19550  (overlapFail=True closeBeyond=False)
+6/26/2026 4:43:00 PM  Q2 START  bar=19550  floor=29413.1  bound=29403.5
+6/26/2026 4:43:00 PM  Q2 VOID (close above floor)  bar=19550
+6/26/2026 4:49:00 PM  Q1 START (long)  bar=19556  px=29467.5  ema30=29407.6057835459
+6/26/2026 4:50:00 PM  Q1 END -> Q2  bar=19557  (overlapFail=True closeBeyond=False)
+6/26/2026 4:50:00 PM  Q2 START  bar=19557  floor=29476.65  bound=29460.25
+6/26/2026 4:53:00 PM  1st BREAKOUT -> Q3  bar=19560  q2Top=29460.25
+6/26/2026 4:55:00 PM  Q3 VOID (floor)  bar=19562
+6/26/2026 4:58:00 PM  Q1 START (long)  bar=19565  px=29507.75  ema30=29443.0410713947
+6/26/2026 4:59:00 PM  Q1 END -> Q2  bar=19566  (overlapFail=True closeBeyond=False)
+6/26/2026 4:59:00 PM  Q2 START  bar=19566  floor=29517.5  bound=29501.75
+6/26/2026 5:03:00 PM  1st BREAKOUT -> Q3  bar=19570  q2Top=29490.75
+6/26/2026 5:08:00 PM  Q3 VOID (no re-entry 1 in 5 bars)  bar=19575
+6/26/2026 5:12:00 PM  Q1 START (short)  bar=19579  px=29453.25  ema30=29456.7284394366
+6/26/2026 5:13:00 PM  Q1 VOID (EMA violation - close on wrong side)  bar=19580  close=29471  ema30=29457.6491852794
+6/26/2026 5:20:00 PM  Q1 START (long)  bar=19587  px=29491.25  ema30=29471.6227419353
+6/26/2026 5:21:00 PM  Q1 END -> Q2  bar=19588  (overlapFail=True closeBeyond=False)
+6/26/2026 5:21:00 PM  Q2 START  bar=19588  floor=29514  bound=29487.75
+6/26/2026 5:24:00 PM  Q2 VOID (close above floor)  bar=19591
+6/26/2026 5:25:00 PM  Q1 START (long)  bar=19592  px=29509  ema30=29481.286584245
+6/26/2026 5:26:00 PM  Q1 END -> Q2  bar=19593  (overlapFail=True closeBeyond=False)
+6/26/2026 5:26:00 PM  Q2 START  bar=19593  floor=29514.65  bound=29504.75
+6/26/2026 5:26:00 PM  Q2 VOID (close above floor)  bar=19593
+6/26/2026 5:27:00 PM  Q1 START (long)  bar=19594  px=29500.25  ema30=29485.1030357441
+6/26/2026 5:28:00 PM  Q1 END -> Q2  bar=19595  (overlapFail=True closeBeyond=False)
+6/26/2026 5:28:00 PM  Q2 START  bar=19595  floor=29514.1  bound=29496.25
+6/26/2026 5:29:00 PM  Q2 VOID (close above floor)  bar=19596
+6/26/2026 5:40:00 PM  Q1 START (long)  bar=19607  px=29537.5  ema30=29515.6791107137
+6/26/2026 5:41:00 PM  Q1 END -> Q2  bar=19608  (overlapFail=True closeBeyond=False)
+6/26/2026 5:41:00 PM  Q2 START  bar=19608  floor=29543.55  bound=29529
+6/26/2026 5:41:00 PM  Q2 VOID (close above floor)  bar=19608
+6/26/2026 5:42:00 PM  Q1 START (long)  bar=19609  px=29526  ema30=29518.2654860669
+6/26/2026 5:43:00 PM  Q1 VOID (EMA violation - close on wrong side)  bar=19610  close=29517  ema30=29518.1838418045
+6/26/2026 5:48:00 PM  Q1 START (short)  bar=19615  px=29513.5  ema30=29516.0986728752
+6/26/2026 5:49:00 PM  Q1 END -> Q2  bar=19616  (overlapFail=True closeBeyond=False)
+6/26/2026 5:49:00 PM  Q2 START  bar=19616  floor=29503.95  bound=29515.5
+6/26/2026 5:56:00 PM  1st BREAKOUT -> Q3  bar=19623  q2Top=29532.75
+6/26/2026 5:59:00 PM  RE-ENTRY 1 (peak locked=29544)  bar=19626
+6/26/2026 6:00:00 PM  2nd BREAKOUT -> STOP entries A+B placed @q2Top=29532.75  stop=29544.25  risk$/contract=230  (10-bar fill window)  bar=19627
+6/26/2026 6:00:00 PM  CONGEST  atr20=14.53  span20=0.186  cross20=4  eff20=0.022  atr50=17.71  span50=0.144  cross50=5  eff50=0.165  bar=19627
+6/26/2026 6:03:00 PM  Q3 VOID (floor)  bar=19630
+6/26/2026 6:09:00 PM  Q1 START (short)  bar=19636  px=29496.75  ema30=29510.6396488516
+6/26/2026 6:10:00 PM  Q1 END -> Q2  bar=19637  (overlapFail=True closeBeyond=True)
+6/26/2026 6:10:00 PM  Q2 START  bar=19637  floor=29487  bound=29514
+6/26/2026 6:13:00 PM  Q2 VOID (close below floor)  bar=19640
+6/26/2026 6:18:00 PM  Q1 START (short)  bar=19645  px=29486.75  ema30=29498.199699929
+6/26/2026 6:19:00 PM  Q1 END -> Q2  bar=19646  (overlapFail=True closeBeyond=True)
+6/26/2026 6:19:00 PM  Q2 START  bar=19646  floor=29481.25  bound=29493.5
+6/26/2026 6:20:00 PM  Q2 VOID (close below floor)  bar=19647
+6/26/2026 6:43:00 PM  Q1 START (short)  bar=19670  px=29471.75  ema30=29481.6498409741
+6/26/2026 6:44:00 PM  Q1 END -> Q2  bar=19671  (overlapFail=True closeBeyond=False)
+6/26/2026 6:44:00 PM  Q2 START  bar=19671  floor=29469.85  bound=29481.5
+6/26/2026 6:44:00 PM  Q2 VOID (close below floor)  bar=19671
+6/26/2026 7:19:00 PM  Q1 START (short)  bar=19706  px=29398.25  ema30=29400.3264627076
+6/26/2026 7:20:00 PM  Q1 END -> Q2  bar=19707  (overlapFail=False closeBeyond=False)
+6/26/2026 7:20:00 PM  Q2 START  bar=19707  floor=29390.45  bound=29409
+6/26/2026 7:21:00 PM  Q2 VOID (close below floor)  bar=19708
+6/26/2026 7:27:00 PM  Q1 START (short)  bar=19714  px=29367.25  ema30=29386.4094465821
+6/26/2026 7:28:00 PM  Q1 END -> Q2  bar=19715  (overlapFail=True closeBeyond=False)
+6/26/2026 7:28:00 PM  Q2 START  bar=19715  floor=29362.4  bound=29370.5
+6/26/2026 7:33:00 PM  Q2 VOID (close below floor)  bar=19720
+6/26/2026 7:34:00 PM  Q1 START (short)  bar=19721  px=29368  ema30=29379.5139217784
+6/26/2026 7:35:00 PM  Q1 END -> Q2  bar=19722  (overlapFail=True closeBeyond=False)
+6/26/2026 7:35:00 PM  Q2 START  bar=19722  floor=29361.2  bound=29375
+6/26/2026 7:36:00 PM  1st BREAKOUT -> Q3  bar=19723  q2Top=29375
+6/26/2026 7:41:00 PM  Q3 VOID (no re-entry 1 in 5 bars)  bar=19728
+6/26/2026 7:46:00 PM  Q1 START (long)  bar=19733  px=29421.75  ema30=29396.1311549609
+6/26/2026 7:47:00 PM  Q1 END -> Q2  bar=19734  (overlapFail=True closeBeyond=False)
+6/26/2026 7:47:00 PM  Q2 START  bar=19734  floor=29429.35  bound=29416
+6/26/2026 7:47:00 PM  Q2 VOID (close above floor)  bar=19734
+6/26/2026 7:49:00 PM  Q1 START (long)  bar=19736  px=29429.25  ema30=29402.616502915
+6/26/2026 7:50:00 PM  Q1 END -> Q2  bar=19737  (overlapFail=True closeBeyond=False)
+6/26/2026 7:50:00 PM  Q2 START  bar=19737  floor=29433.75  bound=29423.5
+6/26/2026 7:53:00 PM  1st BREAKOUT -> Q3  bar=19740  q2Top=29421.5
+6/26/2026 7:58:00 PM  Q3 VOID (no re-entry 1 in 5 bars)  bar=19745
+6/26/2026 8:00:00 PM  Q1 START (short)  bar=19747  px=29379  ema30=29400.6313254446
+6/26/2026 8:01:00 PM  Q1 END -> Q2  bar=19748  (overlapFail=True closeBeyond=False)
+6/26/2026 8:01:00 PM  Q2 START  bar=19748  floor=29373.45  bound=29381.5
+6/26/2026 8:01:00 PM  Q2 VOID (close below floor)  bar=19748
+6/26/2026 8:08:00 PM  Q1 START (short)  bar=19755  px=29364.75  ema30=29377.1061516315
+6/26/2026 8:09:00 PM  Q1 continue  bar=19756
+6/26/2026 8:10:00 PM  Q1 END -> Q2  bar=19757  (overlapFail=True closeBeyond=False)
+6/26/2026 8:10:00 PM  Q2 START  bar=19757  floor=29358.95  bound=29376.5
+6/26/2026 8:11:00 PM  1st BREAKOUT -> Q3  bar=19758  q2Top=29376.5
+6/26/2026 8:13:00 PM  RE-ENTRY 1 (peak locked=29388)  bar=19760
+6/26/2026 8:14:00 PM  2nd BREAKOUT -> STOP entries A+B placed @q2Top=29376.5  stop=29388.25  risk$/contract=235  (10-bar fill window)  bar=19761
+6/26/2026 8:14:00 PM  CONGEST  atr20=15.55  span20=0.317  cross20=4  eff20=0.174  atr50=15.19  span50=0.167  cross50=5  eff50=0.049  bar=19761
+6/26/2026 8:18:00 PM  >>EXEC  name="DblShortA"  fromSignal=""  type=StopMarket  action=SellShort  @price=29375.75  qty=1  posAfter=1  mktPos=Short  bar=19765  orderId=NT-00133-273
+6/26/2026 8:18:00 PM  FILLED A DblShortA @29375.75  stop=29388.25  tp=29357  bar=19765
+6/26/2026 8:18:00 PM  >>DIAG A-bracket submitted: entry=29375.75  A.stop=29388.25  A.target=29357  (target is a LIMIT - cannot fill worse than this)  bar=19765
+6/26/2026 8:18:00 PM  DBG q3Peak=29388  lockedStop=29388.25  entry=29375.75  trueExtremeSinceLock=29400.25  beyondPeakPts=12.25  barsLockToFill=5  <<< STOP INSIDE SWING  bar=19765
+6/26/2026 8:18:00 PM  >>EXEC  name="DblShortB"  fromSignal=""  type=StopMarket  action=SellShort  @price=29375.75  qty=1  posAfter=2  mktPos=Short  bar=19765  orderId=NT-00134-273
+6/26/2026 8:18:00 PM  FILLED B DblShortB @29375.75  stop=29388.25  (runner, no TP)  bar=19765
+6/26/2026 8:20:00 PM  >>EXEC  name="Profit target"  fromSignal="DblShortA"  type=Limit  action=BuyToCover  @price=29357  qty=1  posAfter=1  mktPos=Long  bar=19767  orderId=NT-00136-273
+6/26/2026 8:20:00 PM  EXIT Profit target  from=DblShortA  @29357  qtyRemaining=1  bar=19767
+6/26/2026 8:20:00 PM  A TOOK PROFIT -> B trailing armed  tpDistance=18.75  leg1Dist=18.75  leg2Dist=37.5  leg3Dist=56.25  bar=19767
+6/26/2026 8:21:00 PM  PROFIT CAP HIT ($760.00 >= $250)  bar=19768  Force closing B
+6/26/2026 8:21:00 PM  >>EXEC  name="Buy to cover"  fromSignal="DblShortB"  type=Market  action=BuyToCover  @price=29356  qty=1  posAfter=0  mktPos=Long  bar=19768  orderId=NT-00138-273
+6/26/2026 8:21:00 PM  FLAT -> trade closed, reset  bar=19768
+6/26/2026 8:21:00 PM  Q1OPEN-TEST  side=short  q1Open=29348  reachedQ1Open=False  Aresult=target  bar=19768
+6/26/2026 8:24:00 PM  Q1 START (short)  bar=19771  px=29358.25  ema30=29374.1319917023
+6/26/2026 8:25:00 PM  Q1 END -> Q2  bar=19772  (overlapFail=True closeBeyond=False)
+6/26/2026 8:25:00 PM  Q2 START  bar=19772  floor=29350.1  bound=29358.5
+6/26/2026 8:25:00 PM  Q2 VOID (close below floor)  bar=19772
+6/26/2026 8:28:00 PM  Q1 START (short)  bar=19775  px=29367.25  ema30=29369.490026998
+6/26/2026 8:29:00 PM  Q1 VOID (EMA violation - close on wrong side)  bar=19776  close=29371  ema30=29369.587444611
+6/26/2026 8:42:00 PM  Q1 START (short)  bar=19789  px=29352  ema30=29365.6201546965
+6/26/2026 8:43:00 PM  Q1 END -> Q2  bar=19790  (overlapFail=True closeBeyond=True)
+6/26/2026 8:43:00 PM  Q2 START  bar=19790  floor=29344.95  bound=29354.5
+6/26/2026 8:44:00 PM  1st BREAKOUT -> Q3  bar=19791  q2Top=29354.5
+6/26/2026 8:46:00 PM  RE-ENTRY 1 (peak locked=29365)  bar=19793
+6/26/2026 8:47:00 PM  2nd BREAKOUT -> STOP entries A+B placed @q2Top=29354.5  stop=29365.25  risk$/contract=215  (10-bar fill window)  bar=19794
+6/26/2026 8:47:00 PM  CONGEST  atr20=12.71  span20=0.184  cross20=4  eff20=0.081  atr50=13.90  span50=0.119  cross50=8  eff50=0.050  bar=19794
+6/26/2026 8:48:00 PM  >>EXEC  name="DblShortA"  fromSignal=""  type=StopMarket  action=SellShort  @price=29354.5  qty=1  posAfter=1  mktPos=Short  bar=19795  orderId=NT-00139-273
+6/26/2026 8:48:00 PM  FILLED A DblShortA @29354.5  stop=29365.25  tp=29338.375  bar=19795
+6/26/2026 8:48:00 PM  >>DIAG A-bracket submitted: entry=29354.5  A.stop=29365.25  A.target=29338.375  (target is a LIMIT - cannot fill worse than this)  bar=19795
+6/26/2026 8:48:00 PM  DBG q3Peak=29365  lockedStop=29365.25  entry=29354.5  trueExtremeSinceLock=29372.5  beyondPeakPts=7.50  barsLockToFill=2  <<< STOP INSIDE SWING  bar=19795
+6/26/2026 8:48:00 PM  >>EXEC  name="DblShortB"  fromSignal=""  type=StopMarket  action=SellShort  @price=29354.5  qty=1  posAfter=2  mktPos=Short  bar=19795  orderId=NT-00140-273
+6/26/2026 8:48:00 PM  FILLED B DblShortB @29354.5  stop=29365.25  (runner, no TP)  bar=19795
+6/26/2026 8:50:00 PM  >>EXEC  name="Stop loss"  fromSignal="DblShortA"  type=StopMarket  action=BuyToCover  @price=29365.5  qty=1  posAfter=1  mktPos=Long  bar=19797  orderId=NT-00141-273
+6/26/2026 8:50:00 PM  EXIT Stop loss  from=DblShortA  @29365.5  qtyRemaining=1  bar=19797
+6/26/2026 8:50:00 PM  A TOOK PROFIT -> B trailing armed  tpDistance=29354.5  leg1Dist=29354.5  leg2Dist=58709  leg3Dist=88063.5  bar=19797
+6/26/2026 8:50:00 PM  >>EXEC  name="Stop loss"  fromSignal="DblShortB"  type=StopMarket  action=BuyToCover  @price=29365.5  qty=1  posAfter=0  mktPos=Long  bar=19797  orderId=NT-00143-273
+6/26/2026 8:50:00 PM  EXIT Stop loss  from=DblShortB  @29365.5  qtyRemaining=0  bar=19797
+6/26/2026 8:50:00 PM  FLAT -> trade closed, reset  bar=19797
+6/26/2026 8:50:00 PM  Q1OPEN-TEST  side=short  q1Open=29342.25  reachedQ1Open=False  Aresult=STOP  bar=19797
+6/26/2026 8:54:00 PM  Q1 START (short)  bar=19801  px=29361  ema30=29361.4994000595
+6/26/2026 8:55:00 PM  Q1 VOID (EMA violation - close on wrong side)  bar=19802  close=29365.5  ema30=29361.7575032815
+6/26/2026 9:06:00 PM  Q1 START (long)  bar=19813  px=29390.5  ema30=29367.5120665984
+6/26/2026 9:07:00 PM  Q1 END -> Q2  bar=19814  (overlapFail=True closeBeyond=False)
+6/26/2026 9:07:00 PM  Q2 START  bar=19814  floor=29396.2  bound=29389
+6/26/2026 9:11:00 PM  Q2 VOID (close above floor)  bar=19818
+6/26/2026 9:15:00 PM  Q1 START (long)  bar=19822  px=29408.25  ema30=29382.7173347328
+6/26/2026 9:16:00 PM  Q1 continue  bar=19823
+6/26/2026 9:17:00 PM  Q1 VOID (EMA violation - close on wrong side)  bar=19824  close=29381.25  ema30=29383.8015385123
+6/26/2026 9:57:00 PM  Q1 START (short)  bar=19864  px=29324  ema30=29359.9826794241
+6/26/2026 9:58:00 PM  Q1 continue  bar=19865
+6/26/2026 9:59:00 PM  Q1 END -> Q2  bar=19866  (overlapFail=True closeBeyond=False)
+6/26/2026 9:59:00 PM  Q2 START  bar=19866  floor=29321.1  bound=29339.5
+6/26/2026 10:00:00 PM  1st BREAKOUT -> Q3  bar=19867  q2Top=29339.5
+6/26/2026 10:05:00 PM  Q3 VOID (no re-entry 1 in 5 bars)  bar=19872
+6/26/2026 10:08:00 PM  Q1 START (long)  bar=19875  px=29401.25  ema30=29366.1673646278
+6/26/2026 10:09:00 PM  Q1 continue  bar=19876
+6/26/2026 10:10:00 PM  Q1 END -> Q2  bar=19877  (overlapFail=True closeBeyond=False)
+6/26/2026 10:10:00 PM  Q2 START  bar=19877  floor=29405.85  bound=29394
+6/26/2026 10:10:00 PM  Q2 VOID (close above floor)  bar=19877
+6/26/2026 10:20:00 PM  Q1 START (long)  bar=19887  px=29418.25  ema30=29397.451099195
+6/26/2026 10:21:00 PM  Q1 continue  bar=19888
+6/26/2026 10:22:00 PM  Q1 END -> Q2  bar=19889  (overlapFail=True closeBeyond=False)
+6/26/2026 10:22:00 PM  Q2 START  bar=19889  floor=29427.8  bound=29403.5
+6/26/2026 10:23:00 PM  1st BREAKOUT -> Q3  bar=19890  q2Top=29403.5
+6/26/2026 10:28:00 PM  Q3 VOID (no re-entry 1 in 5 bars)  bar=19895
+6/26/2026 10:38:00 PM  Q1 START (short)  bar=19905  px=29370.25  ema30=29388.6118466448
+6/26/2026 10:39:00 PM  Q1 END -> Q2  bar=19906  (overlapFail=True closeBeyond=False)
+6/26/2026 10:39:00 PM  Q2 START  bar=19906  floor=29365.15  bound=29374
+6/26/2026 10:40:00 PM  Q2 VOID (close below floor)  bar=19907
+6/26/2026 10:48:00 PM  Q1 START (short)  bar=19915  px=29336.5  ema30=29363.5539269988
+6/26/2026 10:49:00 PM  Q1 END -> Q2  bar=19916  (overlapFail=True closeBeyond=False)
+6/26/2026 10:49:00 PM  Q2 START  bar=19916  floor=29326.75  bound=29338.75
+6/26/2026 10:50:00 PM  Q2 VOID (close below floor)  bar=19917
+6/26/2026 10:55:00 PM  Q1 START (short)  bar=19922  px=29339.25  ema30=29349.0038883603
+6/26/2026 10:56:00 PM  Q1 END -> Q2  bar=19923  (overlapFail=True closeBeyond=False)
+6/26/2026 10:56:00 PM  Q2 START  bar=19923  floor=29328.15  bound=29344.25
+6/26/2026 10:57:00 PM  Q2 VOID (close below floor)  bar=19924
+6/27/2026 12:19:00 AM  Q1 START (long)  bar=20006  px=29530.25  ema30=29483.7290767004
+6/27/2026 12:20:00 AM  Q1 END -> Q2  bar=20007  (overlapFail=True closeBeyond=False)
+6/27/2026 12:20:00 AM  Q2 START  bar=20007  floor=29554.2  bound=29523
+6/27/2026 12:20:00 AM  Q2 VOID (close above floor)  bar=20007
+6/27/2026 12:56:00 AM  Q1 START (short)  bar=20043  px=29521  ema30=29527.9025177954
+6/27/2026 12:57:00 AM  Q1 END -> Q2  bar=20044  (overlapFail=True closeBeyond=False)
+6/27/2026 12:57:00 AM  Q2 START  bar=20044  floor=29502.7  bound=29522.5
+6/27/2026 12:57:00 AM  Q2 VOID (close below floor)  bar=20044
+6/27/2026 1:09:00 AM  Q1 START (short)  bar=20056  px=29506.5  ema30=29517.5873704745
+6/27/2026 1:10:00 AM  Q1 END -> Q2  bar=20057  (overlapFail=True closeBeyond=False)
+6/27/2026 1:10:00 AM  Q2 START  bar=20057  floor=29486.45  bound=29514.75
+6/27/2026 1:11:00 AM  1st BREAKOUT -> Q3  bar=20058  q2Top=29514.75
+6/27/2026 1:12:00 AM  RE-ENTRY 1 (peak locked=29537.75)  bar=20059
+6/27/2026 1:13:00 AM  Q3 VOID (floor)  bar=20060
+6/27/2026 1:18:00 AM  Q1 START (short)  bar=20065  px=29458.5  ema30=29492.9546188218
+6/27/2026 1:19:00 AM  Q1 continue  bar=20066
+6/27/2026 1:20:00 AM  Q1 END -> Q2  bar=20067  (overlapFail=True closeBeyond=False)
+6/27/2026 1:20:00 AM  Q2 START  bar=20067  floor=29455.2  bound=29513.25
+6/27/2026 1:25:00 AM  1st BREAKOUT -> Q3  bar=20072  q2Top=29526.25
+6/27/2026 1:30:00 AM  Q3 VOID (no re-entry 1 in 5 bars)  bar=20077
+6/27/2026 1:48:00 AM  Q1 START (long)  bar=20095  px=29644.5  ema30=29610.2635167544
+6/27/2026 1:49:00 AM  Q1 continue  bar=20096
+6/27/2026 1:50:00 AM  Q1 END -> Q2  bar=20097  (overlapFail=True closeBeyond=False)
+6/27/2026 1:50:00 AM  Q2 START  bar=20097  floor=29659.65  bound=29628.75
+6/27/2026 1:51:00 AM  1st BREAKOUT -> Q3  bar=20098  q2Top=29628.75
+6/27/2026 1:52:00 AM  RE-ENTRY 1 (peak locked=29558.5)  bar=20099
+6/27/2026 1:53:00 AM  Q3 VOID (risk $1410 > $500)  bar=20100
+6/27/2026 2:16:00 AM  Q1 START (short)  bar=20123  px=29555.25  ema30=29583.0910800173
+6/27/2026 2:17:00 AM  Q1 END -> Q2  bar=20124  (overlapFail=True closeBeyond=False)
+6/27/2026 2:17:00 AM  Q2 START  bar=20124  floor=29546.9  bound=29564
+6/27/2026 2:18:00 AM  1st BREAKOUT -> Q3  bar=20125  q2Top=29564
+6/27/2026 2:20:00 AM  Q3 VOID (floor)  bar=20127
+6/27/2026 2:21:00 AM  Q1 START (short)  bar=20128  px=29557.75  ema30=29576.6138422793
+6/27/2026 2:22:00 AM  Q1 END -> Q2  bar=20129  (overlapFail=True closeBeyond=False)
+6/27/2026 2:22:00 AM  Q2 START  bar=20129  floor=29545.9  bound=29571
+6/27/2026 2:22:00 AM  Q2 VOID (close below floor)  bar=20129
+6/27/2026 2:41:00 AM  Q1 START (long)  bar=20148  px=29607.5  ema30=29587.9613924819
+6/27/2026 2:42:00 AM  Q1 END -> Q2  bar=20149  (overlapFail=True closeBeyond=False)
+6/27/2026 2:42:00 AM  Q2 START  bar=20149  floor=29614.1  bound=29601.75
+6/27/2026 2:44:00 AM  Q2 VOID (close above floor)  bar=20151
+6/27/2026 2:57:00 AM  Q1 START (long)  bar=20164  px=29610  ema30=29605.1442705517
+6/27/2026 2:58:00 AM  Q1 END -> Q2  bar=20165  (overlapFail=True closeBeyond=False)
+6/27/2026 2:58:00 AM  Q2 START  bar=20165  floor=29617.85  bound=29602.25
+6/27/2026 3:02:00 AM  Q2 VOID (close above floor)  bar=20169
+6/27/2026 3:13:00 AM  Q1 START (long)  bar=20180  px=29663.25  ema30=29635.4444283148
+6/27/2026 3:14:00 AM  Q1 END -> Q2  bar=20181  (overlapFail=True closeBeyond=False)
+6/27/2026 3:14:00 AM  Q2 START  bar=20181  floor=29672.8  bound=29654.25
+6/27/2026 3:14:00 AM  Q2 VOID (close above floor)  bar=20181
+6/27/2026 3:15:00 AM  Q1 START (long)  bar=20182  px=29648  ema30=29638.5210865897
+6/27/2026 3:16:00 AM  Q1 END -> Q2  bar=20183  (overlapFail=True closeBeyond=False)
+6/27/2026 3:16:00 AM  Q2 START  bar=20183  floor=29661.35  bound=29645.75
+6/27/2026 3:17:00 AM  1st BREAKOUT -> Q3  bar=20184  q2Top=29645.75
+6/27/2026 3:22:00 AM  Q3 VOID (no re-entry 1 in 5 bars)  bar=20189
+6/27/2026 3:44:00 AM  Q1 START (short)  bar=20211  px=29593.25  ema30=29608.6512028964
+6/27/2026 3:45:00 AM  Q1 END -> Q2  bar=20212  (overlapFail=False closeBeyond=False)
+6/27/2026 3:45:00 AM  Q2 START  bar=20212  floor=29579.05  bound=29610
+6/27/2026 3:51:00 AM  Q2 VOID (close below floor)  bar=20218
+6/27/2026 4:13:00 AM  Q1 START (short)  bar=20240  px=29550.5  ema30=29564.6049611482
+6/27/2026 4:14:00 AM  Q1 END -> Q2  bar=20241  (overlapFail=True closeBeyond=False)
+6/27/2026 4:14:00 AM  Q2 START  bar=20241  floor=29537.55  bound=29553.5
+6/27/2026 4:14:00 AM  Q2 VOID (close below floor)  bar=20241
+6/27/2026 4:34:00 AM  Q1 START (short)  bar=20261  px=29483.25  ema30=29509.930581323
+6/27/2026 4:35:00 AM  Q1 VOID (EMA violation - close on wrong side)  bar=20262  close=29510.25  ema30=29509.9511889796
+6/27/2026 4:57:00 AM  Q1 START (short)  bar=20284  px=29452  ema30=29463.9300043628
+6/27/2026 4:58:00 AM  Q1 END -> Q2  bar=20285  (overlapFail=True closeBeyond=False)
+6/27/2026 4:58:00 AM  Q2 START  bar=20285  floor=29439.45  bound=29455.5
+6/27/2026 4:58:00 AM  Q2 VOID (close below floor)  bar=20285
+6/27/2026 5:08:00 AM  Q1 START (short)  bar=20295  px=29431.75  ema30=29440.0125293446
+6/27/2026 5:09:00 AM  Q1 END -> Q2  bar=20296  (overlapFail=False closeBeyond=False)
+6/27/2026 5:09:00 AM  Q2 START  bar=20296  floor=29410.7  bound=29447.75
+6/27/2026 5:10:00 AM  1st BREAKOUT -> Q3  bar=20297  q2Top=29447.75
+6/27/2026 5:15:00 AM  Q3 VOID (no re-entry 1 in 5 bars)  bar=20302
+6/27/2026 6:02:00 AM  Q1 START (short)  bar=20349  px=29393.25  ema30=29457.0852412499
+6/27/2026 6:03:00 AM  Q1 END -> Q2  bar=20350  (overlapFail=True closeBeyond=False)
+6/27/2026 6:03:00 AM  Q2 START  bar=20350  floor=29342.2  bound=29410
+6/27/2026 6:03:00 AM  Q2 VOID (close below floor)  bar=20350
+6/27/2026 6:24:00 AM  Q1 START (short)  bar=20371  px=29359.5  ema30=29364.8136724291
+6/27/2026 6:25:00 AM  Q1 VOID (EMA violation - close on wrong side)  bar=20372  close=29365  ema30=29364.8256935628
+6/27/2026 6:36:00 AM  Q1 START (short)  bar=20383  px=29312.75  ema30=29343.9740647318
+6/27/2026 6:37:00 AM  Q1 END -> Q2  bar=20384  (overlapFail=True closeBeyond=False)
+6/27/2026 6:37:00 AM  Q2 START  bar=20384  floor=29301.7  bound=29320
+6/27/2026 6:38:00 AM  Q2 VOID (close below floor)  bar=20385
+6/27/2026 6:51:00 AM  Q1 START (short)  bar=20398  px=29276.25  ema30=29300.5450896488
+6/27/2026 6:52:00 AM  Q1 continue  bar=20399
+6/27/2026 6:53:00 AM  Q1 continue  bar=20400
+6/27/2026 6:54:00 AM  Q1 END -> Q2  bar=20401  (overlapFail=True closeBeyond=True)
+6/27/2026 6:54:00 AM  Q2 START  bar=20401  floor=29274.65  bound=29300.25
+6/27/2026 6:58:00 AM  1st BREAKOUT -> Q3  bar=20405  q2Top=29302.75
+6/27/2026 6:59:00 AM  RE-ENTRY 1 (peak locked=29307.25)  bar=20406
+Enabling NinjaScript strategy 'ScriptTLPDouble/393901697' : On starting a real-time strategy - StartBehavior=WaitUntilFlat EntryHandling=Unique entries EntriesPerDirection=2 StopTargetHandling=Per entry execution ErrorHandling=Stop strategy, cancel orders, close positions ExitOnSessionClose=True / triggering 30 seconds before close SetOrderQuantityBy=Strategy ConnectionLossHandling=Recalculate DisconnectDelaySeconds=10 CancelEntriesOnStrategyDisable=False CancelExitsOnStrategyDisable=False Calculate=On each tick IsUnmanaged=False MaxRestarts=4 in 5 minutes
